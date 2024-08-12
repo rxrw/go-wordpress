@@ -3,6 +3,7 @@
 
 A Go client library for the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
 
+It's forked from missing repository. I've added some missing endpoints and fixed some bugs.
 
 ## Installation
 
