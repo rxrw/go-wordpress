@@ -43,7 +43,7 @@ type RenderedString struct {
 	Rendered string `json:"rendered,omitempty"`
 }
 
-// Post represents a WordPress post.
+// Post represents a WordPress post..
 type Post struct {
 	collection *PostsService
 
